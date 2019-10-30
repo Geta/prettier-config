@@ -1,0 +1,12 @@
+{
+  "name": "geta-prettier-config",
+  "version": "1.0.0",
+  "description": "shared config for prettier used by geta",
+  "main": "index.json",
+  "repository": "https://github.com/Geta/prettier-config.git",
+  "author": "Eirik Horvath <eirik@geta.no>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
